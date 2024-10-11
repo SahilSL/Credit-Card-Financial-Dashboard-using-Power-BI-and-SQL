@@ -10,8 +10,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 # Dataset: Financial Dataset
 
 # Step 
-Import data to SQL database
-1. Prepare CSV file
+Import data to SQL database <br>
+1. Prepare CSV file \n
 2. Create tables in SQL
 3. Import CSV file into SQL
 
