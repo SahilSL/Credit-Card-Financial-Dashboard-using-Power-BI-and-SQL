@@ -11,7 +11,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 # Step 
 Import data to SQL database <br>
-1. Prepare CSV file \n
+1. Prepare CSV file 
 2. Create tables in SQL
 3. Import CSV file into SQL
 
@@ -19,11 +19,11 @@ Import data to SQL database <br>
 Project Insights- Week 53 (31st Dec)
 
 WoW change:
-• Revenue increased by 28.8%,
+• Revenue increased by 28.8% <br>
 
 Overview YTD:
-• Overall revenue is 57M
-• Total interest is 8M
+• Overall revenue is 57M <br>
+• Total interest is 8M <br>
 • Total transaction amount is 46M
 • Male customers are contributing more in revenue 31M, females 26M
 • Blue & Silver credit cards are contributing to 93% of overall transactions
